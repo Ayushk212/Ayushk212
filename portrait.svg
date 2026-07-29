@@ -1,0 +1,365 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="716" height="781" viewBox="0 0 716 781">
+<defs>
+<style>
+@font-face {
+  font-family: "PortraitRamp";
+  src: url("data:font/woff2;base64,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") format("woff2");
+}
+</style>
+</defs>
+<rect width="716" height="781" fill="#0d1117" rx="6"/>
+<clipPath id="clip0">
+  <rect x="10" y="9.999999999999998" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.0s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="22.9" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip0)">                                                                                          </text>
+<clipPath id="clip1">
+  <rect x="10" y="22.9" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.09s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="35.8" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip1)">                                                                                          </text>
+<clipPath id="clip2">
+  <rect x="10" y="35.800000000000004" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.18s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="48.7" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip2)">                                                                                          </text>
+<clipPath id="clip3">
+  <rect x="10" y="48.7" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.27s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="61.6" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip3)">                                                                                          </text>
+<clipPath id="clip4">
+  <rect x="10" y="61.6" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.36s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="74.5" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip4)">                                                                                          </text>
+<clipPath id="clip5">
+  <rect x="10" y="74.5" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.45s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="87.4" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip5)">                                                                                          </text>
+<clipPath id="clip6">
+  <rect x="10" y="87.39999999999999" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.54s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="100.3" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip6)">                                                                                          </text>
+<clipPath id="clip7">
+  <rect x="10" y="100.3" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.63s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="113.2" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip7)">                                                                                          </text>
+<clipPath id="clip8">
+  <rect x="10" y="113.2" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.72s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="126.10000000000001" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip8)">                                                                                          </text>
+<clipPath id="clip9">
+  <rect x="10" y="126.1" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.81s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="139.0" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip9)">                                                                                          </text>
+<clipPath id="clip10">
+  <rect x="10" y="139.0" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.9s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="151.9" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip10)">                                                                                          </text>
+<clipPath id="clip11">
+  <rect x="10" y="151.9" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="0.99s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="164.8" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip11)">                                                                                          </text>
+<clipPath id="clip12">
+  <rect x="10" y="164.8" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.08s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="177.70000000000002" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip12)">                                     ..``::::::::-=-:`..                                  </text>
+<clipPath id="clip13">
+  <rect x="10" y="177.7" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.17s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="190.6" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip13)">                                ..:=csss######ss#%####sc+==-::`.                          </text>
+<clipPath id="clip14">
+  <rect x="10" y="190.6" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.26s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="203.5" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip14)">                            `=cs#ssss##########s#%#ss#%##ss###sc*+-.                      </text>
+<clipPath id="clip15">
+  <rect x="10" y="203.5" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.35s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="216.4" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip15)">                        .:+c###ss%%%s#%%###ss%%%sss%sss#%ssss###s##*=:.                   </text>
+<clipPath id="clip16">
+  <rect x="10" y="216.4" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.44s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="229.3" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip16)">                      `-c%##s%%%s%%%##s#%%##s#%%%ss###ss%#cscs##ssssss*=:.                </text>
+<clipPath id="clip17">
+  <rect x="10" y="229.3" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.53s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="242.20000000000002" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip17)">                    .-css####%#%#s%%%%%###%%#s#%%%%c#%%s%%sss#%%#cs%ssssc+:`              </text>
+<clipPath id="clip18">
+  <rect x="10" y="242.2" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.62s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="255.1" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip18)">                   :*s%%s#%#s#%#%%s#%%%%%###%%##%%%%#%%##%%#%%%%%##%%s##sc*=`             </text>
+<clipPath id="clip19">
+  <rect x="10" y="255.1" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.71s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="268.0" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip19)">                 .+c#%%%##%%%##%%#%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#sc+:             </text>
+<clipPath id="clip20">
+  <rect x="10" y="268.00000000000006" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.8s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="280.90000000000003" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip20)">                 -c###%%%%##%%%#%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#c*-.            </text>
+<clipPath id="clip21">
+  <rect x="10" y="280.90000000000003" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.89s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="293.8" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip21)">                -s##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%#c+-.            </text>
+<clipPath id="clip22">
+  <rect x="10" y="293.8" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="1.98s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="306.7" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip22)">                =#%%%%%%%%%%%%%%%%%%######ssscccccss####%%%%%%%%%%%@%@@%%#sc=:            </text>
+<clipPath id="clip23">
+  <rect x="10" y="306.70000000000005" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.07s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="319.6" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip23)">               .c#%%%%%%%%%%%%%%##ssccccccc**++++****ccssss##s###%%%%%%%%%sc+`            </text>
+<clipPath id="clip24">
+  <rect x="10" y="319.6" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.16s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="332.5" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip24)">               `c##%%%%%%%%%%%#scc*****++++++=--=======++*cccccss##%%%%%%%#s+`            </text>
+<clipPath id="clip25">
+  <rect x="10" y="332.50000000000006" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.25s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="345.40000000000003" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip25)">               :s%%%%%%%%@@%##sc*++=+====++++=------:::::-++++*ccsss#%%####s=.            </text>
+<clipPath id="clip26">
+  <rect x="10" y="345.40000000000003" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.34s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="358.3" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip26)">               -#%%%%%@%%%#ssc*+=============---------:``:--==+*css###%%%#sc-             </text>
+<clipPath id="clip27">
+  <rect x="10" y="358.3" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.43s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="371.2" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip27)">               :s%%%%%%%%#c*+===--=------------::----:::``````-=*css###%%%#c`             </text>
+<clipPath id="clip28">
+  <rect x="10" y="371.20000000000005" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.52s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="384.1" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip28)">               `s%%%%%%#s*+=-----:::::``````````:::::`````.``.`:-*cs###%%%#=              </text>
+<clipPath id="clip29">
+  <rect x="10" y="384.1" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.61s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="397.0" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip29)">                +#%%%%#c+==-:------::`...........```.... ......:-=+*s##%%%c`              </text>
+<clipPath id="clip30">
+  <rect x="10" y="397.00000000000006" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.7s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="409.90000000000003" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip30)">                -#%%%s*+==+cs#####ssscc*--:`````-=+=+**++=-=-::::::-+s#%%#-               </text>
+<clipPath id="clip31">
+  <rect x="10" y="409.90000000000003" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.79s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="422.8" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip31)">                `c%%#*+*c#%%%%%%%%%%%%%%#c*+=-=+c##%%%%%%%%%%%##s+---*#%%c.               </text>
+<clipPath id="clip32">
+  <rect x="10" y="422.8" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.88s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="435.7" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip32)">                 -sc+---+++=-===+*cccccssssc*++cs########sscccccc**-:-*#%-                </text>
+<clipPath id="clip33">
+  <rect x="10" y="435.70000000000005" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="2.97s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="448.6" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip33)">                 .+*::-*c*+***cs####s#c+==*-:``-=*ccs###ss*+====+*c-``:+*.                </text>
+<clipPath id="clip34">
+  <rect x="10" y="448.6" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.06s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="461.5" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip34)">                  =%c-***cs###s%%%%%c#%#+++*=-::=*s#%%%%%%%#s##scccc**##=                 </text>
+<clipPath id="clip35">
+  <rect x="10" y="461.50000000000006" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.15s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="474.40000000000003" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip35)">                 .:c+-+*cs#%##cs%%%scs#%s*c+:`-*-*#%%#s%%%%c*%%%#sc*++ss.                 </text>
+<clipPath id="clip36">
+  <rect x="10" y="474.40000000000003" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.24s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="487.3" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip36)">                .c#s+:+*ccsssccsssssssss***-`  -==cs##%%###ssccccc*==+*c*=                </text>
+<clipPath id="clip37">
+  <rect x="10" y="487.3" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.33s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="500.2" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip37)">                 *#s*-=*++*++========++++*=:.  .+=-=**cccc*+++==+++==++s#*                </text>
+<clipPath id="clip38">
+  <rect x="10" y="500.20000000000005" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.42s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="513.1" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip38)">                 =#c**-====--:::::::-=-*s+:`. ..`+:`----==----:::--===+s#=                </text>
+<clipPath id="clip39">
+  <rect x="10" y="513.1" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.51s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="526.0" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip39)">                 :ss**+----::```````-+sc+=-.    .-*+=::-::::::```:-=++*ss`                </text>
+<clipPath id="clip40">
+  <rect x="10" y="526.0" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.6s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="538.9" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip40)">                 .cscc**++==--:::-=*ss+-+cc=-:-==:`-sc*=-:::::::-==++*cs+                 </text>
+<clipPath id="clip41">
+  <rect x="10" y="538.9000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.69s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="551.8000000000001" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip41)">                  =#sssc*++*++=---=+cs*+c%%sc*c%%c==scc*=--------==+**ss`                 </text>
+<clipPath id="clip42">
+  <rect x="10" y="551.8000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.78s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="564.7" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip42)">                  :##sssc**++==-:--=*s#%%%%%#%%#%%#s*=++=::---=-==++*c#*                  </text>
+<clipPath id="clip43">
+  <rect x="10" y="564.7" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.87s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="577.6" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip43)">                  =##ssscc*+==----=+cs#%%%%#%%%%%%%s*++==-::--===+***ss=                  </text>
+<clipPath id="clip44">
+  <rect x="10" y="577.6" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="3.96s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="590.5" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip44)">                  .-s#sscc*+====+c#%%%#####sssccssss#%#sc=----=++***cs*:                  </text>
+<clipPath id="clip45">
+  <rect x="10" y="590.5" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.05s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="603.4" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip45)">                    `ssscc*+===c#%%%%%%%%%%%##%%%%%##%%%#c=---=+**ccc-                    </text>
+<clipPath id="clip46">
+  <rect x="10" y="603.4000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.14s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="616.3000000000001" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip46)">                     =ssccc*+=+s#%%%%%#s*=-::--:-+s#%%%%%#+--=+**ccc+                     </text>
+<clipPath id="clip47">
+  <rect x="10" y="616.3000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.23s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="629.2" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip47)">                      +sscc**++*s###ssssc*+++c+=*c*++c#%%s===++*ccs*.                     </text>
+<clipPath id="clip48">
+  <rect x="10" y="629.2" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.32s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="642.1" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip48)">                      .cssccc**cc*+*c**cc#%%%%%#sc*+==*css*+*cc*csc.                      </text>
+<clipPath id="clip49">
+  <rect x="10" y="642.1" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.41s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="655.0" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip49)">                       .*##ssccc**++++-::-++==-:``:---+csscccccs#c.                       </text>
+<clipPath id="clip50">
+  <rect x="10" y="655.0" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.5s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="667.9" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip50)">                        `s#ssssc**+==-````..``.. ...`:-+*cccsss#s.                        </text>
+<clipPath id="clip51">
+  <rect x="10" y="667.9000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.59s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="680.8000000000001" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip51)">                        `c#%#csssc++++-----==---::```:=+*ccss#%#*                         </text>
+<clipPath id="clip52">
+  <rect x="10" y="680.8000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.68s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="693.7" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip52)">                        -cs#%%#ssssssc*ccsccssssc*+++=+css##%%#s=`                        </text>
+<clipPath id="clip53">
+  <rect x="10" y="693.7" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.77s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="706.6" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip53)">                        -ss##%%%%%#####%%%%%%%%%###sss###%%%#scc+:.                       </text>
+<clipPath id="clip54">
+  <rect x="10" y="706.6" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.86s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="719.5" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip54)">                        `*ccss###%%%%%%%%%%%%%%%%%%%%%%####scc*c+:-                       </text>
+<clipPath id="clip55">
+  <rect x="10" y="719.5" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="4.95s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="732.4" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip55)">                        .:*****csss##%%%%%%%%%%%%%%##ssscc*+++*c:-+-                      </text>
+<clipPath id="clip56">
+  <rect x="10" y="732.4000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="5.04s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="745.3000000000001" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip56)">                       ...`=*+=+++*cccssss####sssssc*****+==+*+`-+++=-`.                  </text>
+<clipPath id="clip57">
+  <rect x="10" y="745.3000000000001" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="5.13s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="758.2" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip57)">                 ......    .`+*=-----==+++****++++=====---=++:`=++++=-=++=-:.             </text>
+<clipPath id="clip58">
+  <rect x="10" y="758.2" width="0" height="16.9">
+    <animate attributeName="width" from="0" to="696" begin="5.22s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+  </rect>
+</clipPath>
+<text x="10" y="771.1" font-family="PortraitRamp, monospace" font-size="12.9" fill="#e6edf3" xml:space="preserve" clip-path="url(#clip58)">           ......````..       `==-:`````:-------::::::::-++-`:-=+++==--=+++==--:`         </text>
+</svg>

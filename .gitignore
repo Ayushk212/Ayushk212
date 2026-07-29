@@ -1,0 +1,8 @@
+# don't commit source photos or the full unsubset font — only the
+# generated outputs (portrait.svg, headings/*.svg, fonts/*.woff2) belong
+# in the repo
+photo*.png
+photo*.jpg
+JetBrainsMono-Regular.ttf
+__pycache__/
+*.pyc
