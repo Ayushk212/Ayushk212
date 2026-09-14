@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <img src="portrait.svg" alt="ASCII self-portrait of Ayush" width="380"/>
+  <img src="portrait.svg" alt="ASCII self-portrait of Ayush" width="520"/>
 </div>
 
 <br/>
