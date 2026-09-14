@@ -19,6 +19,10 @@ HEADINGS = [
     "part 1 — the portrait",
     "part 2 — stats your own repo draws",
     "part 3 — making the text look deliberate",
+    "featured work",
+    "activity & stats",
+    "the pipeline",
+    "technical stack",
 ]
 
 WIDTH = 640
