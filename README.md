@@ -11,6 +11,12 @@
   <a href="https://github.com/Ayushk212/portfolio-v2"><samp>[Portfolio]</samp></a>
 </p>
 
+<div align="center">
+  <img src="portrait.svg" alt="ASCII self-portrait of Ayush" width="380"/>
+</div>
+
+<br/>
+
 <img src="headings/technical-stack.svg" width="100%" alt="technical stack"/>
 
 <samp>C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Shell</samp>
@@ -44,15 +50,9 @@
 
 </div>
 
-<br/>
-
-<img src="headings/the-pipeline.svg" width="100%" alt="the pipeline"/>
+<br/><br/>
 
 <div align="center">
-
-<br/>
-<img src="portrait.svg" alt="ASCII self-portrait of Ayush" width="360"/>
-<br/><br/>
 
 <sub>Every graphic on this profile is rendered directly inside
 <a href="https://github.com/Ayushk212/Ayushk212">this repository</a>
