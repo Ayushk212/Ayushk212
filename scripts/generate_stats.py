@@ -54,6 +54,7 @@ CONTRIB_QUERY = """
 query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
     contributionsCollection(from: $from, to: $to) {
+      restrictedContributionsCount
       contributionCalendar {
         totalContributions
         weeks {
@@ -84,12 +85,14 @@ query($login: String!, $after: String) {
 
 def fetch_contributions():
     data = gql(CONTRIB_QUERY, {"login": LOGIN, "from": FROM, "to": TO})
-    cal = data["user"]["contributionsCollection"]["contributionCalendar"]
+    cc = data["user"]["contributionsCollection"]
+    cal = cc["contributionCalendar"]
     days = []
     for week in cal["weeks"]:
         for d in week["contributionDays"]:
             days.append((d["date"], d["contributionCount"]))
-    return cal["totalContributions"], days
+    total = cal["totalContributions"] + (cc.get("restrictedContributionsCount") or 0)
+    return total, days
 
 
 def fetch_languages():

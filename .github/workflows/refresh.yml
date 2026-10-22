@@ -2,9 +2,16 @@ name: refresh stats
 
 on:
   schedule:
-    - cron: "17 5 * * *"
-  workflow_dispatch:          # deliberately no `push` trigger — this job commits,
-                               # and a push trigger would re-run it on its own commit
+    - cron: "0 */4 * * *"       # runs every 4 hours automatically
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "stats.svg"
+      - "streak.svg"
+      - "langs.svg"
+      - "year.svg"
 
 permissions:
   contents: write
@@ -17,7 +24,7 @@ jobs:
 
       - name: Generate stats SVGs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
         run: python3 scripts/generate_stats.py
 

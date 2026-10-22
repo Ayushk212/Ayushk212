@@ -41,15 +41,18 @@ Writes `headings/*.svg`, and update the `<img src="headings/...">`
 paths in `README.md` to match.
 
 ## 6. Wire up the stats workflow
-`.github/workflows/refresh.yml` is already set up to run
-`scripts/generate_stats.py` daily using the repo's built-in
-`GITHUB_TOKEN` — no personal access token needed, no setup beyond
-pushing the workflow file. It commits `stats.svg` / `streak.svg` /
+`.github/workflows/refresh.yml` automatically refreshes `scripts/generate_stats.py`
+every 4 hours, and immediately whenever you push changes to `main` (ignoring the SVGs
+themselves to prevent recursion). It commits `stats.svg` / `streak.svg` /
 `langs.svg` / `year.svg` only when they actually change.
 
-You can trigger it manually the first time from the Actions tab
-("refresh stats" → Run workflow) instead of waiting for the nightly
-cron, to see it work immediately.
+- **Public stats (default)**: Uses GitHub's built-in `GITHUB_TOKEN` automatically — no extra setup.
+- **Include private/org contributions (334+ total)**: 
+  1. Generate a Personal Access Token (classic) with `repo` and `read:user` scopes at **Settings > Developer Settings > Personal access tokens**.
+  2. Add it as a repository secret named `PAT` under **Settings > Secrets and variables > Actions**.
+  3. Ensure **"Include private contributions on my profile"** is checked in your GitHub **Settings > Public profile**.
+  
+You can also trigger it manually anytime from the Actions tab ("refresh stats" → Run workflow).
 
 ## 7. Force GitHub to pick it up
 A newly created profile README is sometimes cached. If it doesn't
